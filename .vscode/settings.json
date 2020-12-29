@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\tiwar\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.testing.pytestArgs": [
+        "Project2"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
